@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "name": "Rencontre amicale 2021-2022 : vide",
+    "filename": "ra_2022_init.json"
+  },
+  {
+    "id": "2",
+    "name": "Rencontre amicale 2021-2022 : en cours",
+    "filename": "ra_2022.json"
+  }
+]

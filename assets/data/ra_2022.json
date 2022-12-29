@@ -1,0 +1,1024 @@
+[
+  {
+    "turnsToBePlayed": 4,
+    "teams": [
+      {
+        "playerOne": {
+          "firstName": "Jean-Luc",
+          "lastName": "Dronsart",
+          "id": "87c25718-9220-472c-9773-ac9452bd5da5"
+        },
+        "playerTwo": {
+          "firstName": "Bastien",
+          "lastName": "Dujardin",
+          "id": "b899abcd-387f-43fc-9178-471aa549e5eb"
+        },
+        "results": [
+          {
+            "opponentId": "03bed883-d265-44b1-a33f-6b85e1fe54e7",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 13
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:43:51.417Z",
+            "id": "1c322737-b6b8-40ca-b7d6-66668cf29313"
+          }
+        ],
+        "id": "01a6f8c1-f9e5-4880-9b40-a9e3f5cbea2a"
+      },
+      {
+        "playerOne": {
+          "firstName": "Joker",
+          "lastName": "1",
+          "id": "2fd36692-7d6b-4b4c-a836-6934d89e61b1"
+        },
+        "playerTwo": {
+          "firstName": "Joker",
+          "lastName": "2",
+          "id": "0d1a539b-e177-40eb-9865-6afb6563b646"
+        },
+        "results": [
+          {
+            "opponentId": "01a6f8c1-f9e5-4880-9b40-a9e3f5cbea2a",
+            "sets": [
+              {
+                "selfScore": 13,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:43:51.417Z",
+            "id": "f85f7d8d-b3e3-4833-9f1f-6504314ba3dc"
+          },
+          {
+            "opponentId": "10a586af-bc4d-458c-8ad4-b2bf584740d0",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:59.034Z",
+            "id": "48ab03fe-8034-44c7-9240-884b16861cd3"
+          }
+        ],
+        "id": "03bed883-d265-44b1-a33f-6b85e1fe54e7"
+      },
+      {
+        "playerOne": {
+          "firstName": "Lucas",
+          "lastName": "Vermeulen",
+          "id": "72f905c3-3f00-480d-8925-e2d2b5d9c57a"
+        },
+        "playerTwo": {
+          "firstName": "Fabrice",
+          "lastName": "Werner",
+          "id": "d975c401-de8e-4019-90a4-ce20ca48519f"
+        },
+        "results": [
+          {
+            "opponentId": "10a586af-bc4d-458c-8ad4-b2bf584740d0",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:15.932Z",
+            "id": "e7d15353-a9e0-496b-9a28-de7ad22b6c10"
+          }
+        ],
+        "id": "0a07413d-9c93-4c7e-9a24-2e6ec81fdc7f"
+      },
+      {
+        "playerOne": {
+          "firstName": "Brahim",
+          "lastName": "Biramane",
+          "id": "3b5d1d47-e380-4fbb-ab7b-08d94b43bd5f"
+        },
+        "playerTwo": {
+          "firstName": "Sébastien",
+          "lastName": "Drobisz",
+          "id": "0d545d85-c46f-48a7-b2ae-b199744bf470"
+        },
+        "results": [
+          {
+            "opponentId": "0a07413d-9c93-4c7e-9a24-2e6ec81fdc7f",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:15.932Z",
+            "id": "35cb3bc1-4a8e-407c-92e9-51a49546e473"
+          },
+          {
+            "opponentId": "03bed883-d265-44b1-a33f-6b85e1fe54e7",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:59.034Z",
+            "id": "e6f4c684-47f9-45f3-9cb6-79296ac6d576"
+          }
+        ],
+        "id": "10a586af-bc4d-458c-8ad4-b2bf584740d0"
+      },
+      {
+        "playerOne": {
+          "firstName": "Joker",
+          "lastName": "3",
+          "id": "a99a61b3-aa3b-48c1-b268-a39d86ac11a5"
+        },
+        "playerTwo": {
+          "firstName": "Joker",
+          "lastName": "4",
+          "id": "c6a2952a-c816-46be-80a6-005b5d46b36f"
+        },
+        "results": [
+          {
+            "opponentId": "28999a4c-958e-45cb-88e3-f2164bb6f844",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:10.122Z",
+            "id": "118e20cf-6750-4dd9-bf8e-4680c4f2d9ff"
+          },
+          {
+            "opponentId": "2f000fd3-82db-44c9-aa25-31a580466cfe",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:51.977Z",
+            "id": "29891211-44da-44cf-be1d-bd9d0d2d13ce"
+          }
+        ],
+        "id": "26d2fa05-7b73-46b5-8053-83f577a2f85b"
+      },
+      {
+        "playerOne": {
+          "firstName": "Frédéric",
+          "lastName": "Codden",
+          "id": "d9ea828f-dcc9-4823-ae21-3107bcd66a9a"
+        },
+        "playerTwo": {
+          "firstName": "Hugo",
+          "lastName": "Cinarelli",
+          "id": "0693dfd7-d2b8-46ff-b209-5af9c03435ac"
+        },
+        "results": [
+          {
+            "opponentId": "26d2fa05-7b73-46b5-8053-83f577a2f85b",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:10.122Z",
+            "id": "7eaac683-00d0-4e44-91ff-0c78138c77ed"
+          },
+          {
+            "opponentId": "39319374-85ee-441b-8829-7aeedc7c6ee1",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:46.525Z",
+            "id": "b51af769-3b9a-4334-8233-5cda8988adcb"
+          }
+        ],
+        "id": "28999a4c-958e-45cb-88e3-f2164bb6f844"
+      },
+      {
+        "playerOne": {
+          "firstName": "Dirk",
+          "lastName": "De Vlieger",
+          "id": "0f89fe15-3b50-4b29-81a9-394fd50de434"
+        },
+        "playerTwo": {
+          "firstName": "François",
+          "lastName": "Dupiereux",
+          "id": "279de2cb-b6a1-4620-a145-f77e007d6c5b"
+        },
+        "results": [
+          {
+            "opponentId": "39319374-85ee-441b-8829-7aeedc7c6ee1",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:21.186Z",
+            "id": "95db6ff3-2ec7-44e7-a01d-5666306dd8ff"
+          },
+          {
+            "opponentId": "26d2fa05-7b73-46b5-8053-83f577a2f85b",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:51.977Z",
+            "id": "fdd92859-8e20-48e6-be8d-b9a0d083e510"
+          }
+        ],
+        "id": "2f000fd3-82db-44c9-aa25-31a580466cfe"
+      },
+      {
+        "playerOne": {
+          "firstName": "Simon",
+          "lastName": "Dufour",
+          "id": "0438060f-783e-46cd-97ea-3a543f7e6db4"
+        },
+        "playerTwo": {
+          "firstName": "Jérôme",
+          "lastName": "Nosal",
+          "id": "9d0cfce2-4e7e-4da7-bb61-7b1021200d42"
+        },
+        "results": [
+          {
+            "opponentId": "2f000fd3-82db-44c9-aa25-31a580466cfe",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:21.186Z",
+            "id": "2f11ae7c-ff49-431f-9049-33849f3009eb"
+          },
+          {
+            "opponentId": "28999a4c-958e-45cb-88e3-f2164bb6f844",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:46.525Z",
+            "id": "b2b9a0d9-8ad2-4ea1-8e24-2d6adcb14f7d"
+          }
+        ],
+        "id": "39319374-85ee-441b-8829-7aeedc7c6ee1"
+      },
+      {
+        "playerOne": {
+          "firstName": "François",
+          "lastName": "Leriche",
+          "id": "0c6eb2bf-c6a5-4d64-8a49-af6f151443c0"
+        },
+        "playerTwo": {
+          "firstName": "Tao",
+          "lastName": "Lienard",
+          "id": "61dde5a1-7f92-4792-ba31-4d70be3faa47"
+        },
+        "results": [
+          {
+            "opponentId": "781911d1-460c-41f7-91f6-33ab76c5bc99",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:43:57.630Z",
+            "id": "7a15910a-6900-44c3-b11e-5cc9f1ef0c73"
+          }
+        ],
+        "id": "431f418c-8d18-41e0-9b2c-00db683686ed"
+      },
+      {
+        "playerOne": {
+          "firstName": "Thomas",
+          "lastName": "Gavois",
+          "id": "0cb2c90d-def3-43a6-b0bd-5504f07cefce"
+        },
+        "playerTwo": {
+          "firstName": "Gauthier",
+          "lastName": "Honorez",
+          "id": "863a4225-156a-4c7e-9b65-bd111ba2534b"
+        },
+        "results": [
+          {
+            "opponentId": "431f418c-8d18-41e0-9b2c-00db683686ed",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:43:57.630Z",
+            "id": "dcaeb0c0-a7e9-470e-9f8f-192bde76fced"
+          },
+          {
+            "opponentId": "a3b47d1b-236b-42e2-9d8e-b37b93c720c9",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:41.336Z",
+            "id": "3e9b70c9-4180-4a9d-bea0-afb5c9a0bf31"
+          }
+        ],
+        "id": "781911d1-460c-41f7-91f6-33ab76c5bc99"
+      },
+      {
+        "playerOne": {
+          "firstName": "Sasha",
+          "lastName": "Tolino",
+          "id": "ef72a6ec-b4d8-4b97-9dd4-8638980b372b"
+        },
+        "playerTwo": {
+          "firstName": "Michaël",
+          "lastName": "Vandyk",
+          "id": "074ffe06-9c0e-47a8-924d-01a999d193e9"
+        },
+        "results": [
+          {
+            "opponentId": "a3b47d1b-236b-42e2-9d8e-b37b93c720c9",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:03.889Z",
+            "id": "2ada0cc6-e64d-485b-ae9f-0b332315595e"
+          }
+        ],
+        "id": "8fa85084-1dde-4b69-8a74-d39833a9054b"
+      },
+      {
+        "playerOne": {
+          "firstName": "Romarick",
+          "lastName": "Cassaert",
+          "id": "451eb076-b698-424f-86fd-f646fe01c46b"
+        },
+        "playerTwo": {
+          "firstName": "Patrice",
+          "lastName": "Lombard",
+          "id": "5a653e7f-a38d-44e9-b8ff-fcaf9b03a575"
+        },
+        "results": [
+          {
+            "opponentId": "8fa85084-1dde-4b69-8a74-d39833a9054b",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:03.889Z",
+            "id": "7142ad61-7b8b-4353-a76a-de8b80f1d613"
+          },
+          {
+            "opponentId": "781911d1-460c-41f7-91f6-33ab76c5bc99",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:41.336Z",
+            "id": "b568f97c-c288-484c-8a53-c9ba9969bcc0"
+          }
+        ],
+        "id": "a3b47d1b-236b-42e2-9d8e-b37b93c720c9"
+      },
+      {
+        "playerOne": {
+          "firstName": "Simon",
+          "lastName": "Dujardin",
+          "id": "3807d19e-4afe-44d9-b1ae-551c78908986"
+        },
+        "playerTwo": {
+          "firstName": "Thomas",
+          "lastName": "Dupiereux",
+          "id": "28987e2e-6b00-4d8c-9e21-4ee304ea0343"
+        },
+        "results": [
+          {
+            "opponentId": "dd523dc8-d4ed-4b84-8dfa-0fe4b22fd402",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:31.983Z",
+            "id": "bb4532e5-c817-47c4-ac74-4731a2595a50"
+          }
+        ],
+        "id": "ca1c73f3-72bc-4b9c-9915-e06a02b9d51a"
+      },
+      {
+        "playerOne": {
+          "firstName": "Sergio",
+          "lastName": "Calcagno",
+          "id": "735f251b-9f15-4a8f-9c16-7a398f82bb66"
+        },
+        "playerTwo": {
+          "firstName": "Benoit",
+          "lastName": "Lechat",
+          "id": "d359d491-fc0f-4137-be26-2f3ec41e5b29"
+        },
+        "results": [
+          {
+            "opponentId": "ca1c73f3-72bc-4b9c-9915-e06a02b9d51a",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:31.983Z",
+            "id": "86ccceea-8864-4ddd-81c2-302654f076ec"
+          }
+        ],
+        "id": "dd523dc8-d4ed-4b84-8dfa-0fe4b22fd402"
+      },
+      {
+        "playerOne": {
+          "firstName": "David",
+          "lastName": "Godefroid",
+          "id": "7e27743c-71ad-4e04-8a66-dc3ec5c0e4a6"
+        },
+        "playerTwo": {
+          "firstName": "Louis",
+          "lastName": "Pirot",
+          "id": "40336523-8349-4225-ad5b-3979fe692507"
+        },
+        "results": [
+          {
+            "opponentId": "faf68a5d-c780-4a98-9f3f-8533deff1c17",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:26.627Z",
+            "id": "59f177b7-c804-4c16-a00a-c65d71fc4f2b"
+          }
+        ],
+        "id": "ed06b2a2-3bb3-4945-a3d2-67eae05fb799"
+      },
+      {
+        "playerOne": {
+          "firstName": "Cloé",
+          "lastName": "Radelet",
+          "id": "8a295e39-7170-48b8-9fab-bdbbae3f3bfc"
+        },
+        "playerTwo": {
+          "firstName": "Jessie",
+          "lastName": "Vanreckt",
+          "id": "48ff4af9-3810-46bd-b436-68ca63494a9c"
+        },
+        "results": [
+          {
+            "opponentId": "ed06b2a2-3bb3-4945-a3d2-67eae05fb799",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:44:26.627Z",
+            "id": "58c03bc9-dabb-4fef-a41c-4dba20669b61"
+          }
+        ],
+        "id": "faf68a5d-c780-4a98-9f3f-8533deff1c17"
+      }
+    ],
+    "turn": 2,
+    "ongoingMatches": [
+      {
+        "teamOneId": "dd523dc8-d4ed-4b84-8dfa-0fe4b22fd402",
+        "teamTwoId": "faf68a5d-c780-4a98-9f3f-8533deff1c17",
+        "sets": [],
+        "id": "412f8368-6e83-4577-8ae2-0ae2960ba57f"
+      },
+      {
+        "teamOneId": "01a6f8c1-f9e5-4880-9b40-a9e3f5cbea2a",
+        "teamTwoId": "0a07413d-9c93-4c7e-9a24-2e6ec81fdc7f",
+        "sets": [],
+        "id": "d52b416c-92fb-4994-a7ae-eef9b8526a46"
+      },
+      {
+        "teamOneId": "431f418c-8d18-41e0-9b2c-00db683686ed",
+        "teamTwoId": "8fa85084-1dde-4b69-8a74-d39833a9054b",
+        "sets": [],
+        "id": "69e090cf-9f50-4ea4-8163-e33b49d9657a"
+      },
+      {
+        "teamOneId": "ca1c73f3-72bc-4b9c-9915-e06a02b9d51a",
+        "teamTwoId": "ed06b2a2-3bb3-4945-a3d2-67eae05fb799",
+        "sets": [],
+        "id": "f50f674d-9ef8-4da2-ae4a-aebd9002d905"
+      }
+    ],
+    "id": "1"
+  },
+  {
+    "turnsToBePlayed": 4,
+    "teams": [
+      {
+        "playerOne": {
+          "firstName": "Vincent",
+          "lastName": "Vermeulen",
+          "id": "eecc4ff5-70e3-435b-b8cf-a97c6dc1f692"
+        },
+        "playerTwo": {
+          "firstName": "Tom",
+          "lastName": "Zielinski",
+          "id": "55878a3d-a873-498c-a05d-c01ce9bbd1f2"
+        },
+        "results": [
+          {
+            "opponentId": "0737036c-9217-46f5-ac2d-21b0775abad0",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:45:13.964Z",
+            "id": "f27e5363-3f5a-46ae-9a7b-b60e16aa5c41"
+          }
+        ],
+        "id": "03b9be92-aef7-459b-8d42-b9201c63b0fc"
+      },
+      {
+        "playerOne": {
+          "firstName": "Sabine",
+          "lastName": "Goossens",
+          "id": "3a8e2d23-ebf2-4e90-9c77-02f669e70231"
+        },
+        "playerTwo": {
+          "firstName": "Lucie",
+          "lastName": "Wargnies",
+          "id": "e1f10d03-88d4-47c9-a0dc-e8be175d6db7"
+        },
+        "results": [
+          {
+            "opponentId": "03b9be92-aef7-459b-8d42-b9201c63b0fc",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:45:13.964Z",
+            "id": "5ccb977e-89cd-4609-b885-3464e40b2c69"
+          }
+        ],
+        "id": "0737036c-9217-46f5-ac2d-21b0775abad0"
+      },
+      {
+        "playerOne": {
+          "firstName": "Baguet",
+          "lastName": "Lorelei",
+          "id": "e111410b-d3df-4512-a7d6-958c057ca1fc"
+        },
+        "playerTwo": {
+          "firstName": "Elisa",
+          "lastName": "Spisso",
+          "id": "9ff9af22-8aa8-4804-9aa6-1f929a862790"
+        },
+        "results": [],
+        "id": "0db019bf-f4ca-46aa-8e7d-e7f6fce1ed23"
+      },
+      {
+        "playerOne": {
+          "firstName": "Valentin",
+          "lastName": "Adam",
+          "id": "7190e0e1-0b57-40c2-8706-8868c33232e8"
+        },
+        "playerTwo": {
+          "firstName": "Enrique",
+          "lastName": "Martinez",
+          "id": "44237c8c-8b75-4e77-8843-1e46de58e9f5"
+        },
+        "results": [],
+        "id": "1c450380-11a9-4fe7-bfc4-536952acb72d"
+      },
+      {
+        "playerOne": {
+          "firstName": "Benjamin",
+          "lastName": "Soumillon",
+          "id": "c411f6a1-f6ab-44c2-9a62-2bb7e15c3f89"
+        },
+        "playerTwo": {
+          "firstName": "Joël",
+          "lastName": "Vancraenenbroeck",
+          "id": "7097b52c-7531-43e1-bcff-84f433989253"
+        },
+        "results": [],
+        "id": "27840d0d-adb4-41f7-9766-aefd9acc77b4"
+      },
+      {
+        "playerOne": {
+          "firstName": "Benoit",
+          "lastName": "Dujardin",
+          "id": "de1dabb9-ed74-4f26-b315-31d83f4a14fd"
+        },
+        "playerTwo": {
+          "firstName": "Didier",
+          "lastName": "Honorez",
+          "id": "aae14dac-a4bd-4711-a6eb-ee326e226cea"
+        },
+        "results": [],
+        "id": "28bbc44a-cbe6-4d53-81a3-25657e64a17b"
+      },
+      {
+        "playerOne": {
+          "firstName": "Zélia",
+          "lastName": "Renero-Rosada",
+          "id": "c563a201-cbe3-44fd-9ba0-dd8ccfd05822"
+        },
+        "playerTwo": {
+          "firstName": "Eva",
+          "lastName": "Spisso",
+          "id": "9184ad66-c2e3-4f66-afd3-108b1a22bca8"
+        },
+        "results": [
+          {
+            "opponentId": "3fba4a7f-b274-46e1-8fdf-056186f68714",
+            "sets": [
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              },
+              {
+                "selfScore": 21,
+                "opponentScore": 11
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:45:25.498Z",
+            "id": "825bd93a-b57b-40a6-a76d-122c52162b53"
+          }
+        ],
+        "id": "350735dd-0071-4f8a-bd52-34308c84003d"
+      },
+      {
+        "playerOne": {
+          "firstName": "Aaron",
+          "lastName": "Coppin",
+          "id": "adbbd32b-4681-44a4-9866-e820b057073d"
+        },
+        "playerTwo": {
+          "firstName": "Eddy",
+          "lastName": "Tilmant",
+          "id": "620ee533-041f-463c-97e4-53c56061d50f"
+        },
+        "results": [
+          {
+            "opponentId": "350735dd-0071-4f8a-bd52-34308c84003d",
+            "sets": [
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              },
+              {
+                "selfScore": 11,
+                "opponentScore": 21
+              }
+            ],
+            "winningSets": 2,
+            "isBye": false,
+            "timestamp": "2022-12-29T16:45:25.498Z",
+            "id": "609de0f8-a7e7-46e8-b26e-bb226bcc2393"
+          }
+        ],
+        "id": "3fba4a7f-b274-46e1-8fdf-056186f68714"
+      },
+      {
+        "playerOne": {
+          "firstName": "Vincent",
+          "lastName": "Hecquet",
+          "id": "953ff8e4-d0d6-4e28-a10f-226f4033f650"
+        },
+        "playerTwo": {
+          "firstName": "Quentin",
+          "lastName": "Rochette",
+          "id": "e8d45248-6ab9-46cc-80d7-12de588b891b"
+        },
+        "results": [],
+        "id": "6b4979bc-120a-461f-ae49-0ea8426420a9"
+      },
+      {
+        "playerOne": {
+          "firstName": "Célia",
+          "lastName": "Lombard",
+          "id": "522dc935-4b97-46ad-b6e9-bcc1be244544"
+        },
+        "playerTwo": {
+          "firstName": "Morgane",
+          "lastName": "Van den Borre",
+          "id": "47c72788-5a1a-42ee-a21b-0e35bf0366b2"
+        },
+        "results": [],
+        "id": "85992a34-6ed6-4e37-ad94-5444df0e3717"
+      },
+      {
+        "playerOne": {
+          "firstName": "Franca",
+          "lastName": "Catuara",
+          "id": "580e6b11-f8ca-4680-9f23-4724faffc125"
+        },
+        "playerTwo": {
+          "firstName": "Loan-An",
+          "lastName": "Lienard",
+          "id": "48212655-8a92-4227-9d98-39ab5f282d2b"
+        },
+        "results": [],
+        "id": "9809c42a-a808-4b62-b57e-f20a492ccfc6"
+      },
+      {
+        "playerOne": {
+          "firstName": "Anaïs",
+          "lastName": "Dronsart",
+          "id": "2f655308-9dce-46e4-bc63-27dadb42685f"
+        },
+        "playerTwo": {
+          "firstName": "Giulia",
+          "lastName": "Leriche",
+          "id": "46656493-39fd-416a-ad7e-90fef0f0f339"
+        },
+        "results": [],
+        "id": "a75f5324-5fa0-4a41-9716-0f33c63b38cc"
+      },
+      {
+        "playerOne": {
+          "firstName": "Olivier",
+          "lastName": "Delallieux",
+          "id": "8aaab6cf-2658-4bd3-a14f-25cff61e6704"
+        },
+        "playerTwo": {
+          "firstName": "Hugo",
+          "lastName": "Demaret",
+          "id": "6f47db96-205a-4659-a6e4-1741423a735d"
+        },
+        "results": [],
+        "id": "d6cb71f6-b320-4cb5-b87c-a5746f0fe2d4"
+      },
+      {
+        "playerOne": {
+          "firstName": "Laure",
+          "lastName": "Bossart",
+          "id": "ce80bbd0-b323-47c4-b1b8-4d9dd0c6563c"
+        },
+        "playerTwo": {
+          "firstName": "Clarisse",
+          "lastName": "Carbonara",
+          "id": "6396a119-4b0a-4752-85fd-f8caf2224da6"
+        },
+        "results": [],
+        "id": "e321c862-9c9e-4ac0-9206-80e3c2fd2308"
+      },
+      {
+        "playerOne": {
+          "firstName": "Sarah",
+          "lastName": "Vander Eecken",
+          "id": "d02d5682-41f8-4afc-b6bf-055574f2f6db"
+        },
+        "playerTwo": {
+          "firstName": "Lucie",
+          "lastName": "Zielinski",
+          "id": "c7c052eb-6aea-4171-bd92-74ff04fb4773"
+        },
+        "results": [],
+        "id": "f57f30fa-7f14-4d95-93d4-70f1ed2f6eca"
+      },
+      {
+        "playerOne": {
+          "firstName": "Léanore",
+          "lastName": "Soumillon",
+          "id": "6148706b-6df8-414c-af02-abb0bec1fdd1"
+        },
+        "playerTwo": {
+          "firstName": "Séléna",
+          "lastName": "Dellalieux",
+          "id": "233eff0f-28cd-43b0-ad57-ae95602201ec"
+        },
+        "results": [],
+        "id": "ffdf82c3-b759-4f9f-bfc7-a2484d6d9cf7"
+      }
+    ],
+    "turn": 1,
+    "ongoingMatches": [
+      {
+        "teamOneId": "0db019bf-f4ca-46aa-8e7d-e7f6fce1ed23",
+        "teamTwoId": "1c450380-11a9-4fe7-bfc4-536952acb72d",
+        "sets": [],
+        "id": "4d87a013-4fa1-43e3-8fe8-9b0f66da48ad"
+      },
+      {
+        "teamOneId": "27840d0d-adb4-41f7-9766-aefd9acc77b4",
+        "teamTwoId": "28bbc44a-cbe6-4d53-81a3-25657e64a17b",
+        "sets": [],
+        "id": "6de2d1c8-8312-4dbd-baa1-9e3990d29947"
+      },
+      {
+        "teamOneId": "6b4979bc-120a-461f-ae49-0ea8426420a9",
+        "teamTwoId": "85992a34-6ed6-4e37-ad94-5444df0e3717",
+        "sets": [],
+        "id": "f27635a9-ab6d-45cc-b69a-b3def7b2a188"
+      },
+      {
+        "teamOneId": "9809c42a-a808-4b62-b57e-f20a492ccfc6",
+        "teamTwoId": "a75f5324-5fa0-4a41-9716-0f33c63b38cc",
+        "sets": [],
+        "id": "1e0711f3-6a3c-443d-88cc-a071f4b95a7b"
+      },
+      {
+        "teamOneId": "d6cb71f6-b320-4cb5-b87c-a5746f0fe2d4",
+        "teamTwoId": "e321c862-9c9e-4ac0-9206-80e3c2fd2308",
+        "sets": [],
+        "id": "9c173a52-08b2-4b53-8538-99360c339d01"
+      },
+      {
+        "teamOneId": "f57f30fa-7f14-4d95-93d4-70f1ed2f6eca",
+        "teamTwoId": "ffdf82c3-b759-4f9f-bfc7-a2484d6d9cf7",
+        "sets": [],
+        "id": "5f80dc79-b2c1-4530-908e-8204815ecde0"
+      }
+    ],
+    "id": "2"
+  }
+]
