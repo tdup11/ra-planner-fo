@@ -3,24 +3,10 @@
   color: white !important;
 }
 
-.win-color {
-  color: limegreen;
-}
-
-.loss-color {
-  color: red;
-}
-
-.bye-color {
-  color: gray;
-}
-
 p {
   margin: 0.5rem 0;
 }
 
-//FIXME absolute width
 .p-message-wrapper {
   justify-content: center;
-  width: 500px;
 }
