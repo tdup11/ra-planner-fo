@@ -1,6 +1,10 @@
-.navbar .p-menuitem-link-active {
+#ra-planner-navbar .p-menuitem-link-active {
   background-color: royalblue !important;
   color: white !important;
+}
+
+#ra-planner-navbar .p-menuitem-link {
+  padding: 15px;
 }
 
 p {
