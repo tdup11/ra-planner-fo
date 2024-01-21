@@ -177,8 +177,8 @@
           "id": "09f9a828-ed2b-4f77-9e71-bfdac3169545"
         },
         "playerTwo": {
-          "firstName": "N'importe",
-          "lastName": "Qui",
+          "firstName": "Isabelle",
+          "lastName": "Guiot",
           "id": "3e306eba-58db-4716-bfb5-114d1927f343"
         },
         "results": [],
@@ -363,7 +363,7 @@
       },
       {
         "playerOne": {
-          "firstName": "Maléna",
+          "firstName": "Malena",
           "lastName": "Werner",
           "id": "9876b2bf-c863-4aab-959d-96fd626deee6"
         },
